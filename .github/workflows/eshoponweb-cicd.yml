@@ -9,7 +9,7 @@ env:
   LOCATION: japaneast
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: d025d669-f0c4-4ce6-986f-bd26bb9168b8
-  WEBAPP-NAME: az400-webapp-b26b112
+  WEBAPP-NAME: az400-webapp-tsengstudy
 
 
 jobs:
